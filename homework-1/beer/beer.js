@@ -1,4 +1,3 @@
-
 let bottleCount = 99;
 
 while (bottleCount >= 0) {
