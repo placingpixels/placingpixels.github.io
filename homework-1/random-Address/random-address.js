@@ -19,3 +19,4 @@ const randomStreetNumber = Math.floor((Math.random() * streetNumber.length)),
 const randomAddress = (`${streetNumber[randomStreetNumber]} ${streetName[randomStreetName]}, ${cityName[randomCitytName]},${stateName[randomStateName]}, ${zip[randomZip]}`);
 
 console.log(randomAddress);
+
